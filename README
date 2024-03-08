@@ -1,0 +1,5 @@
+Usage: python mps.py <input_file> <output_file>
+       python lmps.py <input_file> <output_file>
+
+For Example:python mps.py ./hw3Q3data/mps/20000.in ./mps_output/20000.out
+            python lmps.py ./hw3Q3data/lmps/2500.in ./lmps_output/2500.out
